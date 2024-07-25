@@ -8,9 +8,9 @@ let handler = async (m, { conn }) => {
 
 *youtube:*\nyoutube.com/@noureddineouafy2
 
-*facebook page:*\nwww.facebook.com/profile.php?id=100063533185520
+*whatsapp:*\nwa.me/212614932692
 
-*script bot :* github.com/noureddineouafy
+*link groub :* https://chat.whatsapp.com/GCsCBSDeroV4T94YWNrQMW
 
 `.trim()
   m.reply(caption)
