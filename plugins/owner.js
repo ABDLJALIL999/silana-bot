@@ -6,7 +6,7 @@ let handler = async (m, { conn }) => {
 *Number :*\nwa.me/212614932692
 *instagram:*\https://www.instagram.com/abdljalil.99?igsh=d3FxOXh4cncxaWZp
 
-*youtube:*\nyoutube.com/@noureddineouafy2
+*chaine whatsapp:*\nhttps://whatsapp.com/channel/0029VacrIfU3LdQdklKFR419
 
 *whatsapp:*\nwa.me/212614932692
 
