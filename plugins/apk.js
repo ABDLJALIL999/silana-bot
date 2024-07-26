@@ -19,7 +19,7 @@ let handler = async (m, { conn, args, text, usedPrefix, command }) => {
   });
 
   await conn.sendMessage(m.chat, {
-    text: `*جاري تحميل* ${info.name}...\n\n مرحبا بك في بوت واتساب هدا هو رقم المطور\wa.me/212614932692`,
+    text: `*جاري تحميل* ${info.name}...\n\n مرحبا بك في بوت واتساب هدا هو رقم المطور\ wa.me/212614932692`,
   });
 
   await conn.sendMessage(
